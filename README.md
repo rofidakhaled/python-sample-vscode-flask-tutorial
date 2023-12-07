@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/202201413/203%20trial%20project/_apis/build/status%2Frofidakhaled.python-sample-vscode-flask-tutorial?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/202201413/203%20trial%20project/_build/latest?definitionId=1&branchName=refs%2Fpull%2F1%2Fmerge)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
